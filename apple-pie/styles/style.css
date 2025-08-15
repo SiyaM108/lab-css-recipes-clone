@@ -4,13 +4,10 @@
     color: white;
 }
 
-img {
-    max-width: 100%;
+.banner img {
+    width: 100%;
     height: auto;
-    display: block;
-    margin: 0 auto;
 }
-
 .banner-text {
     text-align: center;
     color: #fff;
@@ -22,7 +19,22 @@ img {
     font-size: 2em;
     font-weight: lighter;
 }
-.banner img {
-    width: 100%;
-    height: auto;
+
+.paragraph1 {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    align-items: center;
+    margin: 20px;
+    font-family: 'Aptos', sans-serif;
+    font-size: 1.4em;
+    color: darkslategrey;
+    text-emphasis: none;
+    text-align: center;
+    text-align: justify;
+    vertical-align: middle;
+    padding: 0 200px;
+
 }
