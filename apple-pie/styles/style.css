@@ -52,7 +52,66 @@
     size: 10px;
     background: #ccc;
     margin: 20px 210px;
+}
+.header2 {
+    font-family: 'Aptos', sans-serif;
+    font-size: 1em;
+    color: darkslategrey;
+    text-align: start;
+    margin-top: 20px;
+    margin-bottom: 10px;
+    padding: 0 210px;
+}
 
+.paragraph2 {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    align-items: start;
+    margin: 20px;
+    font-family: 'Aptos', sans-serif;
+    font-size: 1em;
+    color: darkslategrey;
+    text-emphasis: none;
+    text-align: start;
+    padding: 0 100px;
+}
 
+.ingredients-list {
+    list-style-type: disc;
+    padding-left: 20px;
+    margin: 10px 100px;
+}
 
+.cook-info-img {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    margin: 0 1px;
+}
+
+.header3 {
+    font-family: 'Aptos', sans-serif;
+    font-size: 1em;
+    color: darkslategrey;
+    text-align: start;
+    margin-top: 20px;
+    margin-bottom: 10px;
+    padding: 0 210px;
+}
+
+.paragraph3 {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    align-items: start;
+    margin: 20px;
+    font-family: 'Aptos', sans-serif;
+    font-size: 1em;
+    color: darkslategrey;
+    text-emphasis: none;
+    text-align: start;
+    padding: 0 180px;
 }
