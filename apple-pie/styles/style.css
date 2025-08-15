@@ -45,3 +45,14 @@
     max-width: 400px;
     border-radius: 10px;
 }
+
+.horizontal-line {
+    border: 1 solid #ccc;
+    height: 1px;
+    size: 10px;
+    background: #ccc;
+    margin: 20px 210px;
+
+
+
+}
